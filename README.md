@@ -5,9 +5,9 @@ In this project we'll be doing sentiment analysis for an Amazon Product using tw
     2-Huggingface Roberta Transformers
 
 Dataset can be downloaded from [Kaggle](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews):
-- 500,000+ reviews for fine foods from Amazon \
-- Collected from 1999-2012 \
-- 256,059 users \
+- 500,000+ reviews for fine foods from Amazon 
+- Collected from 1999-2012 
+- 256,059 users 
 - 74,258 products
 
 ## Analysis Steps
